@@ -23,6 +23,6 @@ A CLI python program that is based on the popular [mocking spongebob meme](knowy
 3. If you want to be even more bonkers, and take an input file and output it to another file, then type `python3 spongePy.py < [inputfile] > [outputfile]`
 
 
-This project was inspired by [PenguinGovernor](https://github.com/PenuingGovernor/) who implemented the same idea in Go.
+This project was inspired by [PenguinGovernor](https://github.com/PenguinGovernor/) who implemented the same idea in Go. You can find his version over [here](https://github.com/PenguinGovernor/GoSpongebob).
 
 
