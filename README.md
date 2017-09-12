@@ -18,7 +18,7 @@ A CLI python program that is based on the popular [mocking spongebob meme](http:
 3. Press Ctrl-D if you want it all to stop.
 
 ## Alternative Usage
-1. If you want to use an input file (this works only for Linux/Unix), then type `python3 spongePy.py < [inputfile]`
+1. If you want to use an input file, then type `python3 spongePy.py < [inputfile]`
 2. If you want to output memefied thing, then type `python3 spongePy.py > [outputfile]`
 3. If you want to be even more bonkers, and take an input file and output it to another file, then type `python3 spongePy.py < [inputfile] > [outputfile]`
 
