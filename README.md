@@ -1,5 +1,5 @@
 # spongPy - a Spongebob Meme
-A CLI python program that is based on the popular [mocking spongebob meme](knowyourmeme.com/memes/mocking-spongebob).
+A CLI python program that is based on the popular [mocking spongebob meme](http://knowyourmeme.com/memes/mocking-spongebob).
 
 ## Download and Install
 1. If you already have python then there should be no problem, really. Just clone this repo and run it like a normal python program.
