@@ -2,6 +2,7 @@
 
 import fileinput
 
+
 def spongify(s):
     output = ""
     for i in range(len(s)):
@@ -13,5 +14,6 @@ def spongify(s):
     return output
 
 for i in fileinput.input():
-    print(spongify(i))
+    print(spongify(i),end='')
+
 
