@@ -34,6 +34,7 @@ Usage:
     Everything after that is optional.
 
     If you'd like to use the samples, set [input-file] to sample-inputs/[filename].
+""")
 
 def do_the_thing(function_name):
     while True:
