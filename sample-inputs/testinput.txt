@@ -1,5 +1,0 @@
-This is a sample text. There is absolutely nothing useful in this text.
-I would use Lorem Ipsum, but I use Vim and I haven;t quite figured out how to paste stuff into Vim from the clipboard.
-If I had the choice, I would be just as on the nose and the main python documentation and pasted the transcript of Monty Python and the Holy Grail.
-Let me know when to stop.
-Let me throw in some numbers +551516565165 if you aren't satisfied with my code.
